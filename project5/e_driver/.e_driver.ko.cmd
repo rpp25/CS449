@@ -1,0 +1,1 @@
+cmd_/u/SysLab/rpp25/e_driver/e_driver.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /u/SysLab/rpp25/e_driver/e_driver.ko /u/SysLab/rpp25/e_driver/e_driver.o /u/SysLab/rpp25/e_driver/e_driver.mod.o
